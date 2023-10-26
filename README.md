@@ -21,7 +21,7 @@
 
 ## Screenshots:
 
- ![VIDEO]()
+ ![VIDEO](https://github.com/cristinanevelits/Challenge-12/blob/main/src/Challenge12.webm)
 
 
 ## GitHub Repo link: https://github.com/cristinanevelits/Challenge-12
